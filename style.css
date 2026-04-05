@@ -1,0 +1,154 @@
+html{
+    scroll-behavior: smooth;
+   
+  
+}
+
+#img1{
+      width: 700px;
+      margin-left: 720px;
+      margin-top: -260px;
+      display: flex;
+}
+#pk{
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 10px;
+}
+#pl{
+    margin-left: 10px;
+    margin-top: -0px;
+    font-family: cursive;
+}
+#ko{
+    display: flex;
+    margin-left: 30px;
+    margin-top: -200px;
+    border-radius: 50px;
+}
+#button2{
+    margin-left: 30px;
+}
+#io{
+    margin-left: 900px;
+    margin-top: 20px;
+    
+}
+#lp{
+    margin-left: 30px;
+}
+#ru{
+    width: 700px;
+    margin-top: 220px;
+}
+#ty{
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 800px;
+    display: flex;
+    margin-top: -300px;
+}
+#button3{
+    margin-left: 800px;
+}
+#we{
+    width: 700px;
+    margin-top: 200px;
+    margin-left: 700px;
+}
+#tk{
+       font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    margin-top: -400px;
+    margin-left: 30px;
+}
+#button4{
+    margin-left: 30px;
+}
+#so{
+    border: 2px solid rgb(0, 0, 6);
+    height: 50px;
+    border-radius: 50px;
+    background-color: blue;
+    text-align: center;
+    margin-top: 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#pat{
+    display: flex;
+    margin-top: 300px;
+    margin-left: 50px;
+    width: 1000px;
+    
+}
+#pak{
+    display: flex;
+    margin-left: 450px;
+    margin-top: -380px;
+}
+#loke{
+    display: flex;
+    margin-left: 900px;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -300px;
+}
+#mada{
+    display: flex;
+    margin-top: -2855px;
+    margin-left: 185px;
+}
+#lamayi{
+    margin-left: 50px;
+}
+#e{
+  
+    margin-top: 1000px;
+}
+#div{
+    scroll-behavior: smooth;
+}
+#lkpap{
+     margin-top: 3100px;
+    margin-left: 600px;
+}
+#id{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#offcanvasScrollingLabel{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#class{
+    width: 500px;
+}
+#pro{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 190px;
+}
+#contact{
+    border: 2px solid blue;
+    margin-top: 3000px;
+    width: 800px;
+    margin-left: 300px;
+    height: 350px;
+    background-color: rgb(4, 4, 253);
+}
+#dell{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor:pointer;
+}
+#del{
+    color: white;
+    margin-left: 285px;
+}
+@media(max-width:1129px){
+     #io{
+        margin-left: 100px;
+        width: -100px;
+     }
+}
